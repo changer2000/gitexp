@@ -15,3 +15,4 @@ I add this line on br:test2 2th.
 I add this line on second compute on br:test2 1th.
 I add this line on cp cp, on br:test2 1th.
 I add this line on cp cp2, on br:test2 1th.
+I run 'git config --global push.default upstream' on cp cp2, on br:test2.
